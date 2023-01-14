@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
 <p align="center">
-<img src="https://i.ibb.co/82zgjSR/20220926-155611.png" alt="nz" width="350"/>
+<img src="https://i.ibb.co/xjy0cHs/Attitude-boy-dp-2846.jpg" alt="nz" width="350"/>
 </p>
 
 ## 𝙆𝙄𝙇𝙇𝙀𝙍𝙍𝙀𝙓-𝘽𝙊𝙏࿐   Version 12.0
