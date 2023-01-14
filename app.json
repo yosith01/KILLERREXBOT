@@ -1,0 +1,24 @@
+{
+  "name": "KILLERREX-BOT",
+  "description": "𝙆𝙄𝙇𝙇𝙀𝙍𝙍𝙀𝙓-𝘽𝙊𝙏 - 𝘔𝘋 | By: KILLERREX-BOTᵀᴹ | 𝐌𝐑: ☬𝕐𝕆𝕊𝕀𝕋ℍ𝔸༒𝕐𝔸ℙ𝔸࿐",
+  "repository": "https://github.com/yosith01/Red-Dragon",
+  "logo": "https://i.ibb.co/xjy0cHs/Attitude-boy-dp-2846.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
