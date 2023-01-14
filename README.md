@@ -14,7 +14,7 @@ LATEST VERSION (2023-01-16) ([Whatsapp can't see messages]) [Fixed ]
 
 <img src="https://i.ibb.co/S080N92/images.webp">
 
-# Powered By: XCODEJET
+# Powered By: KILLERREX
 
 
 <p align="center">
