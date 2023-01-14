@@ -12,9 +12,9 @@ LATEST VERSION (2023-01-16) ([Whatsapp can't see messages]) [Fixed ]
 
 > [🔄Please Follow Me🤭](https://github.com/yosith01)
 
-<img src="https://i.ibb.co/S080N92/images.webp">" alt="Loading..." width="310"/>
+<img src="https://i.ibb.co/S080N92/images.webp">
 
-# Powered By: XCODEJET
+# Powered By: KILLERREX
 
 
 <p align="center">
