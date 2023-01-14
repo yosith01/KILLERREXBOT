@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/xjy0cHs/Attitude-boy-dp-2846.jpg" alt="nz" width="350"/>
 </p>
 
-## 𝙆𝙄𝙇𝙇𝙀𝙍𝙍𝙀𝙓-𝘽𝙊𝙏࿐   Version 12.0
+## 𝙆𝙄𝙇𝙇𝙀𝙍𝙍𝙀𝙓-𝘽𝙊𝙏࿐   Version 1.0
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙇𝙇𝙀𝙍𝙍𝙀𝙓-𝘽𝙊𝙏╺+.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙆𝙄𝙇𝙇𝙀𝙍𝙍𝙀𝙓-𝘽𝙊𝙏+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝕐𝕆𝕊𝕀𝕋ℍ𝔸༒𝕐𝔸ℙ𝔸;𝐌𝐑:+☬𝕄𝕖𝕝࿐;𝓟𝓪𝓱𝓪𝓷𝓼𝓲;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
