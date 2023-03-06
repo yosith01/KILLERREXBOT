@@ -26,7 +26,7 @@ LATEST VERSION (2023-01-16) ([Whatsapp can't see messages]) [Fixed ]
 
 ## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@YosithaYapa/Killerrex-Bot-Qr-Code?v=1)
  
-## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/yosith01/Red-Dragon/fork)
+## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/yosith01/KILLERREXBOT/fork)
  
 ## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
 
