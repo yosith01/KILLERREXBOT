@@ -104,7 +104,7 @@ Recommended WhatsApp👇
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
 
-## 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐
+## 𓂀 𝕄ℝ.𝕐𝕆𝕊𝕀𝕋ℍ𝔸 𝕐𝔸ℙ𝔸 𓂀
 
 
 
